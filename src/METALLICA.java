@@ -6,7 +6,7 @@ public class METALLICA {
 	System.out.println("Até que funcionou a bagacera");
 	System.out.println("Bandas de péssimo gosto: \n Aerosmith \n Metallica \n Megadeth");
 	int numeroDaBesta=666;
-System.out.println(numero_da_besta);
+System.out.println(numeroDaBesta);
 	String nomeDoCara="Noilson Ornelas";
 	System.out.println(nomeDoCara);
 	}
