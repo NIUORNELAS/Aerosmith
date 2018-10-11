@@ -1,21 +1,13 @@
-		
 public class METALLICA {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	// TODO Auto-generated method stub
 
 	System.out.println("vamos ver se funciona esta bagacera");
-	
 	System.out.println("Até que funcionou a bagacera");
-	System.out.println("Bandas de péssimo gosto: \n Slipknot \n Raimundos \n Wesley Safadão");
-	int numero_da_besta;
-	numero_da_besta=666;
-System.out.println(numero_da_besta);
-string nome_do_cara;
-nome_do_cara="Wilcler Vieira";
-System.out.println(nome_do_cara);			
-
-
-}
-	
+	System.out.println("Bandas de péssimo gosto: \n Aerosmith \n Metallica \n Megadeth");
+	int numeroDaBesta=666;
+System.out.println("Número da besta: " + numeroDaBesta);
+	String nomeDoCara="Noilson Ornelas";
+	System.out.println("O cara é " + nomeDoCara);
+	}
 }
